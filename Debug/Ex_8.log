@@ -1,0 +1,12 @@
+﻿  Ex_8.cpp
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(55,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(59,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(63,34): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(67,34): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(116,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(161,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_8\Ex_8.cpp(202,21): warning C4018: '<': signed/unsigned mismatch
+  Ex_8.vcxproj -> C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Debug\Ex_8.exe
